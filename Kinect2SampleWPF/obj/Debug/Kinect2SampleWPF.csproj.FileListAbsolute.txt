@@ -1,0 +1,16 @@
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.csprojResolveAssemblyReference.cache
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\MainWindow.g.cs
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\App.g.cs
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF_MarkupCompile.cache
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF_MarkupCompile.lref
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\bin\Debug\Kinect2SampleWPF.exe.config
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\bin\Debug\Kinect2SampleWPF.exe
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\bin\Debug\Kinect2SampleWPF.pdb
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\bin\Debug\Microsoft.Kinect.dll
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\bin\Debug\Microsoft.Kinect.xml
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\MainWindow.baml
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.g.resources
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.Properties.Resources.resources
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.csproj.GenerateResource.Cache
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.exe
+c:\users\e g rajan\documents\visual studio 2015\Projects\Kinect2SampleWPF\Kinect2SampleWPF\obj\Debug\Kinect2SampleWPF.pdb
